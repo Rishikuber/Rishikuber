@@ -60,4 +60,4 @@
 
 ## 📫 Contact
 
-* LinkedIn: (add your link)
+* LinkedIn: www.linkedin.com/in/rishi-kuber
