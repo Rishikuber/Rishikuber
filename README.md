@@ -1,17 +1,22 @@
 # Hi, I'm Rishi 👋
 
-🎯 Data Science Enthusiast
+🎯 Aspiring Data Scientist | Machine Learning Enthusiast
 📍 Surat, India
 
 ---
 
-## 🚀 Skills
+## 🚀 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge\&logo=mysql)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-green?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge\&logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-orange?style=for-the-badge)
+
+**Programming & Querying:** Python, SQL
+**Machine Learning:** Regression, Classification, Time Series (ARIMA, Prophet)
+**Data Analysis & Visualization:** Power BI, Tableau, EDA
+**Libraries & Tools:** Pandas, NumPy, Scikit-learn, Statsmodels, FastAPI
 
 ---
 
@@ -35,29 +40,29 @@
 
 🔹 Built forecasting models using ARIMA & Prophet
 🔹 Tech: Python, Pandas, Statsmodels, Prophet
-🔹 Outcome: Predicted future sales trends for better planning
+🔹 Outcome: Predicted future sales trends for data-driven planning
 🔗 https://github.com/Rishikuber/sales-forecasting-time-series
 
 ---
 
 ### 🏠 House Price Prediction
 
-🔹 ML model to predict house prices using Multiple Linear Regression
+🔹 Developed ML model using Multiple Linear Regression
 🔹 Tech: Python, Scikit-learn, Pandas
-🔹 Outcome: Accurate price estimation based on features
+🔹 Outcome: Accurate house price estimation based on key features
 🔗 https://github.com/Rishikuber/house-price-prediction-ml
 
 ---
 
 ### 📉 Customer Churn Prediction
 
-🔹 Built ML model + deployed using FastAPI
+🔹 Built and deployed ML model using FastAPI
 🔹 Tech: Python, Scikit-learn, FastAPI
-🔹 Outcome: Identified customers likely to churn
+🔹 Outcome: Identified high-risk customers for churn prevention
 🔗 https://github.com/Rishikuber/customer-churn-ml-project
 
 ---
 
 ## 📫 Contact
 
-* LinkedIn: www.linkedin.com/in/rishi-kuber
+* LinkedIn: (add your link)
