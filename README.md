@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1280x400.png?text=Rishi+Kuber+-+Data+Science+Portfolio)
+!![Banner](https://raw.githubusercontent.com/Rishikuber/Rishikuber/main/banner.png)
 
 # Hi, I'm Rishi 👋
 
