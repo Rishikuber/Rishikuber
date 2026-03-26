@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/Rishikuber/Rishikuber/main/banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishikuber/Rishikuber/main/banner.png" width="85%" />
+</p>
 
 # Hi, I'm Rishi 👋
 
