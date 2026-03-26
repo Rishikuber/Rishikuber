@@ -1,7 +1,18 @@
+![Banner](https://via.placeholder.com/1280x400.png?text=Rishi+Kuber+-+Data+Science+Portfolio)
+
 # Hi, I'm Rishi 👋
 
-🎯 Aspiring Data Scientist | Machine Learning Enthusiast
+🎯 Aspiring Data Scientist passionate about solving real-world problems using data
 📍 Surat, India
+
+---
+
+## 👨‍💻 About Me
+
+* 📊 Skilled in Data Analysis, Machine Learning & Time Series Forecasting
+* 🤖 Built multiple ML models including churn prediction & price forecasting
+* 🚀 Currently exploring deployment & real-world applications
+* 💡 Strong interest in turning data into actionable insights
 
 ---
 
@@ -38,31 +49,28 @@
 
 ### 📈 Sales Forecasting (Time Series)
 
-🔹 Built forecasting models using ARIMA & Prophet
-🔹 Tech: Python, Pandas, Statsmodels, Prophet
-🔹 Outcome: Predicted future sales trends for data-driven planning
+🔹 ARIMA & Prophet models for demand prediction
+🔹 Improved forecasting accuracy for business planning
 🔗 https://github.com/Rishikuber/sales-forecasting-time-series
 
 ---
 
 ### 🏠 House Price Prediction
 
-🔹 Developed ML model using Multiple Linear Regression
-🔹 Tech: Python, Scikit-learn, Pandas
-🔹 Outcome: Accurate house price estimation based on key features
+🔹 Regression model for real estate pricing
+🔹 Feature-based prediction using ML
 🔗 https://github.com/Rishikuber/house-price-prediction-ml
 
 ---
 
-### 📉 Customer Churn Prediction
+### 📉 Customer Churn Prediction (Deployed)
 
-🔹 Built and deployed ML model using FastAPI
-🔹 Tech: Python, Scikit-learn, FastAPI
-🔹 Outcome: Identified high-risk customers for churn prevention
+🔹 ML model deployed using FastAPI
+🔹 Helps identify customers at risk of leaving
 🔗 https://github.com/Rishikuber/customer-churn-ml-project
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 * LinkedIn: (add your link)
