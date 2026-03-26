@@ -75,4 +75,4 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link)
+* LinkedIn: www.linkedin.com/in/rishi-kuber
