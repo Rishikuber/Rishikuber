@@ -1,4 +1,4 @@
-!![Banner](https://raw.githubusercontent.com/Rishikuber/Rishikuber/main/banner.png)
+![Banner](https://raw.githubusercontent.com/Rishikuber/Rishikuber/main/banner.png)
 
 # Hi, I'm Rishi 👋
 
